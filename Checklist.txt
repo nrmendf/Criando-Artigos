@@ -1,0 +1,77 @@
+# CHECKLIST DE PARA GERAR ARTIGOS DE QUALIDADE
+
+- Definir o assunto
+- Título chamativo: headline
+- Imagem de capa chamativa
+- Blocos do artigo
+- Postar o artigo com um call to action
+
+## Assunto: Angular - Diretivas
+
+No GPT: crie 10 headlines para nomes de artigos sobre o assunto Visual Studio Code
+
+
+## Título
+"Desvendando os Segredos do Visual Studio Code: Dicas e Truques dos Especialistas"
+
+## Imagem de capa chamativa
+PowerPoint + lexica.art(site)
+
+Tamanho do slide
+larguta: 1280px
+Altura: 720px
+
+## Blocos do Artigo
+medium(site)
+
+no ChatGPT:
+
+Comporte-se como um escritor de artigos tech full stack e escreva o Artigo atendendo as regras abaixo
+
+{REGRAS}
+
+> no máximo 5 linhas blocos de explicação
+> Me explique de maneira informal, como se eu fosse iniciante em tecnologia
+> Os blocos que serão criados estão abaixo
+- O que é o visual studio code
+- Quais as dicas dos Especialistas
+    - Cite 3 dicas e exemplos
+- Quais as truques dos Especialistas
+    - Cite 3 truques e exemplos
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hastags que façam sentido
+
+Conteúdo gerado por: ChaGPT e revisões humanas
+
+## Introdução
+
+Então, o Visual Studio Code, ou VS Code para os íntimos, é um editor de código gratuito e super poderoso desenvolvido pela Microsoft. É como uma varinha mágica para programadores, onde você pode escrever seu código de maneira fácil e rápida.
+
+## Dicas dos Especialistas:
+
+- Extensões são suas melhores amigas: Instale extensões como "Prettier" para formatação automática do código. Isso mantém seu código lindo e organizado.
+
+- Atalhos são chave: Aprenda atalhos como Ctrl + D para selecionar múltiplas instâncias de uma palavra. Economize tempo e esforço!
+
+- Integração com Git: Use o recurso integrado de controle de versão para monitorar suas mudanças. Digite mensagens de commit claras como "Corrigido Bug da Página Inicial" para manter um histórico claro do seu trabalho.
+
+# Truques dos Especialistas:
+
+- Snippets Personalizados: Crie seus próprios snippets para códigos que você usa frequentemente. Por exemplo, transforme "html5" em um esqueleto básico de HTML com apenas um clique.
+
+- Terminal Integrado: Use o terminal interno para executar comandos sem sair do VS Code. Instale dependências, inicie servidores - tudo no mesmo lugar!
+
+- Debugging Facilitado: Aprenda a usar o debugger integrado. Coloque pontos de interrupção (breakpoints) no seu código para entender exatamente o que está acontecendo, linha por linha.
+
+# Conclusão
+
+Curtiu esse conteúdo? Explorar o Visual Studio Code!!!!! Compartilhe suas experiências!!!!
+
+#VisualStudioCode #CodingMagic #TechJourney
+
+
+
+
+Site remove.bg
+
+
